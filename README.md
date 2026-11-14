@@ -1,4 +1,4 @@
-# Tugas 2 Multikelas Iris Flower
+# Tugas 2-Multikelas Iris Flower
 
 Klasifikasi multikelas bunga Iris menggunakan Machine Learning.
 
